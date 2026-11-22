@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Monochrome Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F5F5F7&center=true&vCenter=true&width=620&lines=Abdulrahman+Hassan+(joox.10);Node.js+%26+Full-Stack+Web+Developer;Discord+Bots%2C+Streaming+%26+Automation+Tools" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F5F5F7&center=true&vCenter=true&width=620&lines=Abdulrahman+Hassan+(joox.10);Node.js+%26+Full-Stack+Web+Developer;Discord+Systems%2C+Automation+%26+Browser+Scripts" alt="Header" />
 
 <p align="center">
   <a href="https://joox.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-joox.is--a.dev-161617?style=flat-square&logo=googlechrome&logoColor=F5F5F7" /></a>
@@ -16,13 +16,13 @@
 
 ### Featured Projects
 
-| Project | Architecture & Focus | Stack | Status |
+| Project | Description | Environment / Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **HOPBot** | Multipurpose Discord bot featuring automated ticket systems, moderation logs, server protection, and interactive slash/menu workflows. | `Node.js` `discord.js v14` `PostgreSQL` | ![Active](https://img.shields.io/badge/Production-161617?style=flat-square&labelColor=1D1D1F&color=F5F5F7) |
-| **EverStream** | High-performance media streaming platform and web interface engineered for fast content delivery and clean playback. | `JavaScript` `HTML5/CSS3` `Cloudflare` | ![Active](https://img.shields.io/badge/Active-161617?style=flat-square&labelColor=1D1D1F&color=F5F5F7) |
-| **discord_tool** | Custom client-side automation utilities, browser scripts, and developer productivity enhancements for Discord workflows. | `JavaScript` `Tampermonkey` `Chromium API` | ![Active](https://img.shields.io/badge/Maintained-161617?style=flat-square&labelColor=1D1D1F&color=F5F5F7) |
+| **HOPBot** | Comprehensive all-in-one Discord system bot engineered with full prefix command support, server management, and modular utilities. | `Node.js` `discord.js` `Prefix Commands` | ![In Development](https://img.shields.io/badge/In_Development-161617?style=flat-square&labelColor=1D1D1F&color=E5E5EA) |
+| **EverStream** | Automation script that switches your Discord account status to Streaming mode while simultaneously connecting you to a voice channel. | `JavaScript` `Discord Gateway / RPC` | ![Active](https://img.shields.io/badge/Active-161617?style=flat-square&labelColor=1D1D1F&color=F5F5F7) |
+| **discord_tool** | Collection of custom Discord client scripts designed to run seamlessly inside Tampermonkey or directly via the browser console. | `JavaScript` `Tampermonkey` `DevTools Console` | ![Maintained](https://img.shields.io/badge/Maintained-161617?style=flat-square&labelColor=1D1D1F&color=F5F5F7) |
 
-> Check out my latest releases, tools, and dev logs at **[joox.is-a.dev/p](https://joox.is-a.dev/p)**
+> Explore latest releases, scripts, and project updates at **[joox.is-a.dev/p](https://joox.is-a.dev/p)**
 
 ---
 
